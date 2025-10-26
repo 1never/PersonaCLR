@@ -53,12 +53,13 @@ $ python eval.py
 
 ## Citation
 ```latex
-@inproceedings{inaba24_sigdial,
-  author={Michimasa Inaba},
-  title={{PersonaCLR: Evaluation Model for Persona Characteristics via Contrastive Learning of Linguistic Style Representation}},
-  year=2024,
-  booktitle={Proc. SIGDIAL 2024},
-  pages={XXXX--XXXX},
-  doi={XXXX}
+@inproceedings{inaba-2024-personaclr,
+    title = "{P}ersona{CLR}: Evaluation Model for Persona Characteristics via Contrastive Learning of Linguistic Style Representation",
+    author = "Inaba, Michimasa",
+    booktitle = "Proceedings of the 25th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2024)",
+    year = "2024",
+    url = "https://aclanthology.org/2024.sigdial-1.58/",
+    doi = "10.18653/v1/2024.sigdial-1.58",
+    pages = "674--685"
 }
 ```
