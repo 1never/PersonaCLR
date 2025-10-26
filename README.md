@@ -52,7 +52,7 @@ $ python eval.py
 ```
 
 ## Citation
-```latex
+```bibtex
 @inproceedings{inaba-2024-personaclr,
     title = "{P}ersona{CLR}: Evaluation Model for Persona Characteristics via Contrastive Learning of Linguistic Style Representation",
     author = "Inaba, Michimasa",
